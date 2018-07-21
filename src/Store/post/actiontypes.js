@@ -1,0 +1,3 @@
+export const POST_FETCHED = "POST_FETCHED"
+export const FILTER_CHANGED = "FILTER_CHANGED"
+export const POST_SELECTED = "POST_SELECTED"

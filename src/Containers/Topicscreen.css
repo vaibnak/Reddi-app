@@ -1,0 +1,53 @@
+.TopicsScreen {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  .TopicsScreen h1 {
+    text-align: center;
+  }
+  .TopicsScreen ul {
+    list-style: none;
+    padding-left: 5px;
+    width: 700px;
+    margin: auto;
+    border: 5px solid rgb(18, 101, 255);
+    max-height: calc(100vh - 110px);
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }
+  
+  .TopicsScreen li {
+    text-align: left;
+    border-bottom:  5px solid rgb(37, 36, 37);
+    cursor: pointer;
+  }
+  
+  .TopicsScreen li > div {
+    padding-left: 20px;
+  }
+  
+  .TopicsScreen li h3 {
+    padding: 10px 0 0 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .TopicsScreen li p {
+    padding: 10px 0;
+    margin: 0;
+  }
+  
+  .NextScreen {
+    position: fixed;
+    top: 50%;
+    right: calc((100vw - 640px)/2 - 90px);
+   background: url('../img/right_arrow.png');
+    background-size: 80px 80px;
+    width: 80px;
+    height: 80px;
+    border: 0;
+    cursor: pointer;
+    outline: none;
+  }
+  
