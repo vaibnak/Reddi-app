@@ -22,7 +22,7 @@ Stores :- This directory will containg two very important files thunks and reduc
 
 # Screenshots of working module
 <img src = "https://github.com/vaibnak/Reddit-app/blob/master/Screenshot%20from%202018-11-05%2023-24-50.png"/>
-Reddit-app/Screenshot from 2018-11-05 23-25-04.png 
-Reddit-app/Screenshot from 2018-11-05 23-25-12.png 
-Reddit-app/Screenshot from 2018-11-05 23-25-17.png 
-Reddit-app/Screenshot from 2018-11-05 23-26-06.png
+<img src = "https://github.com/vaibnak/Reddit-app/blob/master/Screenshot%20from%202018-11-05%2023-25-04.png"/>
+<img src = "https://github.com/vaibnak/Reddit-app/blob/master/Screenshot%20from%202018-11-05%2023-25-12.png"/>
+<img src = "https://github.com/vaibnak/Reddit-app/blob/master/Screenshot%20from%202018-11-05%2023-25-17.png"/>
+<img src = "https://github.com/vaibnak/Reddit-app/blob/master/Screenshot%20from%202018-11-05%2023-26-06.png"/>
