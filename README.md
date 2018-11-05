@@ -5,7 +5,7 @@ This is a webapp which works like a clone of Reddit, you will be given a list of
 
 # Technologies Used
 Library :- Reactjs (An opensource javascript library for creating user interfaces)<br/>
-           Redux (An opensource javascript library for managing application state)
+           Redux (An opensource javascript library for managing application state)<br/>
 API :-     Reddit API https://www.reddit.com/dev/api/           
 
 # Technical summary
