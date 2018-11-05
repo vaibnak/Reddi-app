@@ -21,7 +21,7 @@ Services :- As we are using reddit api here , we have seperated to the code to e
 Stores :- This directory will containg two very important files thunks and reducers, In thunk we will have the action handlers which will be invoked whenever any action takes place in the webapp and do appropriate filtering, the propos from here are passed to the reducer file , which is the holder of global state . Here only global state will be modified based on the type of action performed. States from here are passed to the containers which do their bit of work.
 
 # Screenshots of working module
-<img src = "Reddit-app/Screenshot from 2018-11-05 23-24-50.png"/>
+<img src = "https://github.com/vaibnak/Reddit-app/blob/master/Screenshot%20from%202018-11-05%2023-24-50.png"/>
 Reddit-app/Screenshot from 2018-11-05 23-25-04.png 
 Reddit-app/Screenshot from 2018-11-05 23-25-12.png 
 Reddit-app/Screenshot from 2018-11-05 23-25-17.png 
